@@ -118,7 +118,7 @@ export default function App() {
             style={styles.contactButton}
             onPress={() => alert('Email: 23-77767@g.batstate-u.edu.ph')}
           >
-            <Text style={styles.contactButtonText}>Send Message</Text>
+            <Text style={styles.contactButtonText}>Contact Me</Text>
           </Pressable>
         </View>
 
